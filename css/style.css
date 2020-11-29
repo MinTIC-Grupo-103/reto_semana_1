@@ -21,13 +21,14 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: justify ;
+    color: white;
+    
 }
 .section-1__titulos{
-    color: white;
     text-align: center ;
 }
 
-.section-1__images{
-    padding-left: auto;
-    padding-right: auto;
+.images{
+    display:block;
+    margin:auto;
     }
