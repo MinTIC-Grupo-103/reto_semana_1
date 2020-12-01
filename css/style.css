@@ -130,6 +130,9 @@ body{
     background-color: gainsboro;
 }
 
+.section-news > div:first-child{
+    margin-bottom: 2px; 
+}
 .news{
     width: 100%;
     background-color: cadetblue;
@@ -187,4 +190,31 @@ body{
 
 hr{
     color: white;
+}
+
+/* equipo */
+.section-text{
+    margin: 0;
+    color: #3e3e3e;
+    background: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.col-3{
+    width: 33.08%;
+    height: 470px;
+    background-color: aquamarine;
+    display: inline-block;
+    padding: -15px;
+    margin-top: 5px;
+    text-align: center;
+}
+.col-5{
+    width: 19%;
+    height: 470px;
+    display: inline-block;
+    margin: 5px 4px 0;
+    text-align: center;
+    background-color: rgb(255, 177, 148);
 }
