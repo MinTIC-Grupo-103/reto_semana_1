@@ -218,3 +218,20 @@ hr{
     text-align: center;
     background-color: rgb(255, 177, 148);
 }
+/* Footer */
+.footer{
+
+}
+
+.footer-col{
+    padding: 0 20px;
+    display: inline-block;
+    width: 45%;
+}
+
+.footer-list{
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    margin: 2px auto;
+}
